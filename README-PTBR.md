@@ -365,3 +365,7 @@ Base de conhecimento personalizada permite que o agente:
 Este projeto explora como sistemas modernos de IA podem ser desenhados além de prompts simples — focando em orquestração, ferramentas e integração com o mundo real.
 
 Em vez de tratar LLMs como componentes isolados, o sistema os aproveita como parte de uma arquitetura mais ampla capaz de raciocinar, agir e se adaptar a diferentes contextos.
+
+## 🎥 Demo
+
+[▶️ Assista ao Teste](https://drive.google.com/file/d/1eIhc6EvsRozMnLkqibB361EVEAeL62rr/view?usp=sharing)

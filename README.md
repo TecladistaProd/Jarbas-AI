@@ -361,3 +361,7 @@ Custom knowledge base allows the agent to:
 This project explores how modern AI systems can be designed beyond simple prompts — focusing on orchestration, tooling, and real-world integration.
 
 Instead of treating LLMs as isolated components, the system leverages them as part of a broader architecture capable of reasoning, acting, and adapting to different contexts.
+
+## 🎥 Demo
+
+[▶️ Watch the Test Here](https://drive.google.com/file/d/1eIhc6EvsRozMnLkqibB361EVEAeL62rr/view?usp=sharing)
