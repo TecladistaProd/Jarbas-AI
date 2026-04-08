@@ -1,0 +1,35 @@
+# ============ CORE (LangChain / Orquestração) ============
+langchain==1.2.14
+langchain-core==1.2.24
+langchain-community==0.4.1
+langgraph==1.1.4
+
+# ============ PROVIDERS (LLMs) ============
+langchain-openai==1.1.12
+langchain-anthropic==1.4.0
+langchain-deepseek==1.0.1
+
+# ============ PROCESSAMENTO DE TEXTO ============
+langchain-text-splitters==1.1.1
+markdown-it-py==4.0.0
+
+# ============ EMBEDDINGS / VECTOR STORE ============
+langchain-huggingface==1.2.1
+sentence-transformers==5.3.0
+faiss-cpu==1.13.2
+
+# ============ BUSCA / WEB ============
+langchain-tavily==0.2.17
+
+# ============ INTEGRAÇÕES ============
+telethon==1.42.0
+
+# ============ UTILITÁRIOS ============
+numexpr==2.14.1
+pymupdf==1.27.2.2
+babel==2.18.0
+pytz==2026.1.post1
+python-dotenv==1.2.2
+
+# ============ LOG / CLI ============
+loguru==0.7.3

@@ -1,0 +1,10 @@
+venv/
+*.session
+*.session-journal
+*.bak
+.env
+__pycache__/
+extra.md
+resume.md
+resume.pdf
+./logs/
