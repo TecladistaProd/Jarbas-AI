@@ -88,8 +88,8 @@ Resposta
 ### 1. Clone o repositório
 
 ```bash
-git clone <repo-url>
-cd <repo>
+git clone git@github.com:TecladistaProd/Jarbas-AI.git
+cd Jarbas-AI
 ```
 
 ---

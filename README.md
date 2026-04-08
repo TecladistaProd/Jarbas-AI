@@ -84,8 +84,8 @@ Response
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd <repo>
+git clone git@github.com:TecladistaProd/Jarbas-AI.git
+cd Jarbas-AI
 ```
 
 ---
